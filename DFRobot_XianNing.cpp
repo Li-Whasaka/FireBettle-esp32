@@ -7,6 +7,7 @@ using namespace std;
 #define READ_DATA_SIZE  1024
 #define MD5_SIZE        16
 #define MD5_STR_LEN     (MD5_SIZE*2)
+
 #define sercureId "test"
 #define sercureKey "test"
 
@@ -96,3 +97,4 @@ void DFRobot_XianNing :: setConfig(){
 }
 //#endif
 
+861193045386225
