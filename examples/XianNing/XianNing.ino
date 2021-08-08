@@ -124,7 +124,7 @@ void setup(){
   /*设置回调函数，当收到订阅信息时会执行回调函数*/
   client.setCallback(callback);
   
-  /*连接到Aliyun*/
+  /*连接到物联网平台*/
   ConnectIot();
   
   /*开机先关灯*/
