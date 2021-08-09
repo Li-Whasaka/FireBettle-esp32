@@ -29,4 +29,3 @@ class DFRobot_XianNing{
 };
 int Compute_file_md5(char *md5_str);
 #endif
-{\"properties\":{\"esp32_temperature\":20}}

@@ -1,5 +1,5 @@
-/*#ifndef __DFROBOT_XIANNING_H__
-#define __DFROBOT_XIANNING_H__*/
+#ifndef __DFROBOT_XIANNING_H__
+#define __DFROBOT_XIANNING_H__
 #include "DFRobot_XianNing.h"
 //#include "md5.h"
 using namespace std;
@@ -95,6 +95,6 @@ void DFRobot_XianNing :: setConfig(){
     Serial.print("userName=");
     Serial.println(this->username);*/
 }
-//#endif
+#endif
 
-861193045386225
+//861193045386225
