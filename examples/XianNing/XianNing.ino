@@ -41,8 +41,8 @@ char fBuf[4];
 *********************************************************************
 *********************************************************************
 */
-String XN_SERVER = "122.189.56.75";
-uint16_t PORT = 1883;
+String XN_SERVER = "";
+uint16_t PORT = ;
 String ProductId   = "";  
 String ProductKey  = "";
 String DeviceId    = "";
