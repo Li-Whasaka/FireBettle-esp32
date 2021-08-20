@@ -10,8 +10,8 @@ int c = 0;
 dht11 DHT11; 
 int flag = 0;   
 /*配置WIFI名和密码*/
-const char * WIFI_SSID     = "wulianwang2";
-const char * WIFI_PASSWORD = "wulianwang";
+const char * WIFI_SSID     = "";
+const char * WIFI_PASSWORD = "";
 
 StaticJsonBuffer<1024> jsonBuffer;
 StaticJsonBuffer<1024> js;
@@ -41,8 +41,9 @@ char fBuf[4];
 *********************************************************************
 *********************************************************************
 */
+
 String XN_SERVER = "";
-uint16_t PORT = ;
+uint16_t PORT =  ;
 String ProductId   = "";  
 String ProductKey  = "";
 String DeviceId    = "";
